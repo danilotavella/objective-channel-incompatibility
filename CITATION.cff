@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Objective-Channel Incompatibility in Model Fitting: Minimal diagnostic simulation"
+message: "If you use this software, please cite the associated Zenodo technical note."
+type: software
+authors:
+  - family-names: Tavella
+    given-names: Danilo
+doi: 10.5281/zenodo.18632836
+license: MIT
