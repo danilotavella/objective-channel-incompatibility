@@ -33,20 +33,18 @@ It provides a minimal structural stress test.
 
 ## Reproducibility
 
-The notebook `simulation.ipynb` contains:
+The notebook `objective_channel_incompatibility_ddm.ipynb` contains:
 
 - Synthetic data generation (Drift Diffusion Model)
 - Separate optimization under restricted objectives
 - Comparison of recovered parameter sets
 - Likelihood evaluation under cross-objective settings
 
----
+This notebook demonstrates that parameter sets that perfectly satisfy single-objective evaluation criteria (e.g., accuracy-only or mean RT-only) may fail dramatically under full trial-level likelihood evaluation.
 
-## License
+The example illustrates structural multi-objective non-transitivity in a minimal DDM setting.
 
-MIT License
+To reproduce the minimal structural incompatibility example, run:
 
-## Reproducibility
-
-Run `objective_channel_incompatibility_ddm.ipynb` to reproduce the minimal structural incompatibility example.
+`objective_channel_incompatibility_ddm.ipynb`
 
