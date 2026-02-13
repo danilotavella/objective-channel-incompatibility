@@ -48,5 +48,5 @@ MIT License
 
 ## Reproducibility
 
-Run `simulation.ipynb` to reproduce the minimal structural incompatibility example.
+Run `objective_channel_incompatibility_ddm.ipynb` to reproduce the minimal structural incompatibility example.
 
