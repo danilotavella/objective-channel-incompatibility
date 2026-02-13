@@ -45,3 +45,8 @@ The notebook `simulation.ipynb` contains:
 ## License
 
 MIT License
+
+## Reproducibility
+
+Run `simulation.ipynb` to reproduce the minimal structural incompatibility example.
+
