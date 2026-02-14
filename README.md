@@ -1,5 +1,17 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18632836.svg)](https://doi.org/10.5281/zenodo.18632836)
 
+## What this repository shows
+
+This repository provides a minimal, fully reproducible example demonstrating objective-channel incompatibility in Drift Diffusion Model (DDM) parameter estimation.
+
+Specifically, it shows that:
+
+- Parameter sets optimized under restricted objectives (accuracy-only or mean RT-only) can appear locally consistent.
+- The same parameter sets may fail dramatically when evaluated under full trial-level likelihood.
+- Multi-objective non-transitivity emerges as a structural property of the fitting interface.
+
+The notebook `objective_channel_incompatibility_ddm.ipynb` contains the full reproducible pipeline.
+
 # objective-channel-incompatibility
 Minimal diagnostic simulation of multi-objective non-transitivity in model fitting.
 # Objective-Channel Incompatibility in Model Fitting
