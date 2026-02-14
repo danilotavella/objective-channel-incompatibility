@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18632836.svg)](https://doi.org/10.5281/zenodo.18632836)
+
 # objective-channel-incompatibility
 Minimal diagnostic simulation of multi-objective non-transitivity in model fitting.
 # Objective-Channel Incompatibility in Model Fitting
