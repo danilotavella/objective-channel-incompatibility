@@ -1,3 +1,11 @@
+# Objective-Channel Incompatibility
+
+Minimal reproducible structural stress test in Drift Diffusion Model (DDM) parameter estimation.
+
+This repository demonstrates ...
+...
+The example is strictly diagnostic.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18632836.svg)](https://doi.org/10.5281/zenodo.18632836)
 
 ## What this repository shows
