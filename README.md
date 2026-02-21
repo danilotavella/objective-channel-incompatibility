@@ -31,10 +31,6 @@ Specifically, it shows that:
 
 The notebook `objective_channel_incompatibility_ddm.ipynb` contains the full reproducible pipeline.
 
-Minimal diagnostic simulation of multi-objective non-transitivity in model fitting.
-
-This repository provides a minimal diagnostic simulation illustrating structural incompatibility in multi-objective model fitting.
-
 The experiment demonstrates that:
 
 - Parameter estimates optimized under different objective channels (e.g., accuracy-only vs reaction-time-only)
