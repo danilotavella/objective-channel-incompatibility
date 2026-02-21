@@ -31,9 +31,7 @@ Specifically, it shows that:
 
 The notebook `objective_channel_incompatibility_ddm.ipynb` contains the full reproducible pipeline.
 
-# objective-channel-incompatibility
 Minimal diagnostic simulation of multi-objective non-transitivity in model fitting.
-# Objective-Channel Incompatibility in Model Fitting
 
 This repository provides a minimal diagnostic simulation illustrating structural incompatibility in multi-objective model fitting.
 
