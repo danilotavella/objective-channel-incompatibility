@@ -6,6 +6,17 @@ This repository demonstrates ...
 ...
 The example is strictly diagnostic.
 
+## Why this matters
+
+Multi-objective fitting is widely assumed to admit coherent joint improvement 
+when objectives are compatible.
+
+This example shows that local objective consistency 
+does not imply global likelihood coherence.
+
+The incompatibility arises from structural properties of the fitting interface,
+not from noise, model misspecification, or data instability.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18632836.svg)](https://doi.org/10.5281/zenodo.18632836)
 
 ## What this repository shows
